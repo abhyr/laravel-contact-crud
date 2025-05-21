@@ -37,4 +37,4 @@ It supports:
 git clone https://github.com/your-username/laravel-contact-crud.git
 cd laravel-contact-crud
 
-App URL: http://127.0.0.1:<your port>/contacts
+App URL: http://127.0.0.1:8000/contacts
